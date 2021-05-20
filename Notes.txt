@@ -1,0 +1,49 @@
+npx create-react-app ecomerce
+
+npm i @material-ui/core @material-ui/icons 
+//traemos la card de materia ui
+
+para manejar acounting
+https://www.npmjs.com/package/accounting
+npm i accounting //hacer tipo de monedas en las ventas
+
+//card
+https://material-ui.com/components/cards/
+
+//navbar
+https://material-ui.com/components/app-bar/
+
+//Products
+https://material-ui.com/components/grid/#grid
+
+//manejo d eicons
+https://material-ui.com/es/components/material-icons/
+
+//context api
+//2:16:46
+
+//react router
+npm i react-router-dom
+
+//Firebase
+//bamos a firebase y creamos un nuevo proyecto
+//en ese caso le puese ecomerce 2021
+//lo registramos en la boton </>
+//vamos a configuracion del proyecto y sacamos los datos de configuracio o conexion
+//creamos firebase.js e instalamos firebase
+npm i firebase
+
+//plantilla login Material UI themplate
+https://github.com/mui-org/material-ui/blob/master/docs/src/pages/getting-started/templates/sign-in/SignIn.js
+
+//plantilla sign Up Material UI themplate
+https://github.com/mui-org/material-ui/tree/master/docs/src/pages/getting-started/templates/sign-up
+//03:32:30
+
+//nosvamos a autehntication
+//https://console.firebase.google.com/u/0/project/ecomerce2021-4f60d/authentication
+// en este caso habilitamos pass y contraseña
+
+//pasarela d e pagos
+//https://github.com/mui-org/material-ui/tree/master/docs/src/pages/getting-started/templates/checkout
+
